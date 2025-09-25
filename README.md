@@ -29,7 +29,7 @@
 - ✅ **Audit Logs** – Track all actions securely  
 - ✅ **Face Recognition** – Planned future feature  
 
-[![Request a Demo](https://img.shields.io/badge/Request%20Demo-Click%20Here-blue?style=for-the-badge)](mailto:info@attendancegm.com)
+[![Request a Demo](https://demo.attendancegm.com/)
 
 ---
 
