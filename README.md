@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link.com/attendancegm-logo.png" alt="AttendanceGM Logo" width="200"/>
+  <img src="[https://your-image-link.com/attendancegm-logo.png](https://github.com/attendancegm/.github/blob/main/email_attendance.png)" alt="AttendanceGM Logo" width="200"/>
 </p>
 
 <h1 align="center">AttendanceGM 🚀</h1>
