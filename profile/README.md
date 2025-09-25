@@ -50,6 +50,6 @@ For **partnerships, demo requests, or inquiries**:
 
 ## 💡 Fun Facts
 
-- Founded by **Musa Jawo**, **Alie Sarr**, and **MI Bah** with the Code Catalyst team  
+- Founded by **Musbi Jawo**, **Alie Sarr**, and **MI Bah** with the Code Catalyst team  
 - Focused on **practical solutions for real-world challenges** in The Gambia  
 - Driven by **innovation, creativity, and impact**
