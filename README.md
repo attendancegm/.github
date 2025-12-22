@@ -4,7 +4,7 @@
 
 <h1 align="center">AttendanceGM 🚀</h1>
 <p align="center">
-  <strong>Modern, secure, and reliable attendance management for organizations.</strong>
+  <strong>Modern, secure, and reliable digital attendance management built for African organizations.</strong>
 </p>
 
 <p align="center">
@@ -19,67 +19,77 @@
 
 ---
 
-## 🌟 Hero Features
+## 🌟 Core Features
 
-- ✅ **Secure Sign-In/Out** – Individual logins only, prevents proxy attendance  
-- ✅ **Admin Dashboard** – Real-time monitoring and reporting  
-- ✅ **CSV Export** – Download attendance data effortlessly  
-- ✅ **Notifications** – Alerts for missed sign-ins/outs  
-- ✅ **Mobile-Friendly** – Works on desktops, tablets, and smartphones  
-- ✅ **Audit Logs** – Track all actions securely  
-- ✅ **Face Recognition** – Planned future feature  
-
-[![Request a Demo](https://demo.attendancegm.com/)
+* ✅ **Secure Individual Sign‑In / Sign‑Out** – Prevents proxy attendance
+* ✅ **Admin Dashboard** – Real‑time attendance monitoring & reports
+* ✅ **QR Code Attendance** – Fast and simple check‑in for organizations
+* ✅ **CSV & Report Export** – Download attendance data anytime
+* ✅ **Notifications & Alerts** – Missed sign‑ins, late arrivals
+* ✅ **Audit Logs** – Full activity tracking for accountability
+* ✅ **Mobile‑Friendly** – Works on phones, tablets, and desktops
 
 ---
 
-## 📸 Demo Preview
+## 🚀 Roadmap Highlights
 
-<p align="center">
-  <img src="https://your-image-link.com/dashboard.png" alt="Dashboard Preview" width="600"/>
-</p>
-<p align="center"><em>Admin dashboard showing attendance overview and reports</em></p>
+AttendanceGM is actively evolving based on real‑world organizational needs:
 
-<p align="center">
-  <img src="https://your-image-link.com/signin.png" alt="Sign-In Preview" width="600"/>
-</p>
-<p align="center"><em>Secure individual sign-in interface</em></p>
+* 🔜 **Offline Attendance Sync** – Reliable usage in low‑internet environments
+* 🔜 **Voice Attendance Tracking** – Voice‑based verification (R&D phase)
+* 🔜 **CCTV / Camera Integration** – Advanced attendance verification (future)
+* 🔜 **AI‑Powered Insights** – Smarter reports and attendance trends
+
+> ⚠️ Some features are in research and planning stages and do not have fixed release dates yet.
 
 ---
 
 ## 🛠 Tech Stack
 
-| Layer | Technology |
-|-------|------------|
-| Backend | Flask, Python |
-| Frontend | Tailwind CSS, HTML, JavaScript |
-| Database | SQLite (dev) / PostgreSQL (production) |
-| Deployment | Render / Heroku |
-| Tools | OpenCV (planned face recognition), Pandas |
+| Layer      | Technology                             |
+| ---------- | -------------------------------------- |
+| Backend    | Flask, Django, Python                          |
+| Frontend   | HTML, Tailwind CSS, JavaScript         |
+| Database   | SQLite (dev) / PostgreSQL (production) |
+| Deployment | Render                                 |
+| Tools      | Pandas, OpenCV (planned), AI APIs      |
 
 ---
 
 ## 📂 Project Structure
-  /attendancegm
-    ├─ /backend # Flask routes, models, authentication
-    ├─ /frontend # HTML, Tailwind CSS, JS
-    ├─ /static # Images, CSS, JS assets
-    ├─ /templates # HTML templates
-    └─ /docs # Documentation & guides
 
-
+```
+/attendancegm
+ ├─ /backend      # Flask or Django routes, models, authentication
+ ├─ /frontend     # HTML, Tailwind CSS, JS
+ ├─ /static       # Images, CSS, JS assets
+ ├─ /templates    # Jinja templates
+ └─ /docs         # Product & technical documentation
+```
 
 ---
 
 ## ⚡ Vision
 
-AttendanceGM is designed to **simplify attendance management** for organizations in The Gambia and beyond, providing a **secure, reliable, and modern solution** for workforce attendance tracking.
+AttendanceGM exists to **modernize attendance management** in The Gambia and across Africa — empowering organizations with **simple, secure, and scalable tools** built by young African developers.
+
+We believe local problems deserve **local solutions powered by technology**.
+
+---
+
+## 🤝 Team & Collaboration
+
+AttendanceGM is built by a **volunteer‑driven team** of developers, designers, and marketers.
+
+* Team members are encouraged to **use AI tools responsibly** to improve productivity
+* Continuous learning, collaboration, and skill growth are core values
+* Active contributors may be considered for **paid roles** as the product generates revenue
 
 ---
 
 ## 📧 Contact & Demo Requests
 
-For **demo access, licensing, or partnerships**:  
+For **demo access, partnerships, or enterprise inquiries**:
 
 <p align="center">
   <a href="mailto:info@attendancegm.com">
@@ -92,6 +102,4 @@ For **demo access, licensing, or partnerships**:
 
 ---
 
-> ⚠️ **Note:** AttendanceGM is a **private, proprietary product**. The source code is not publicly available.
-
-
+> ⚠️ **Note:** AttendanceGM is a **private, proprietary product**. The source code is not publicly available. Unauthorized use or distribution is prohibited.
