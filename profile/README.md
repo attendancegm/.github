@@ -1,4 +1,4 @@
-# 👋 Welcome to AttendanceGM
+#  Welcome to AttendanceGM
 
 **AttendanceGM** is a digital workforce technology startup building **modern, secure, and offline‑ready attendance management solutions** for organizations in The Gambia and across Africa.
 
